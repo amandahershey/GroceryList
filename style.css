@@ -19,7 +19,7 @@ html {
   max-width: 350px;
   background: rgba(255,255,255,0.95);
   box-shadow: 0 0 0 10px rgba(0,0,0,0.1);
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 h1 {
@@ -61,6 +61,10 @@ h1 {
   content: '☑️';
 }
 
+.food input:checked + label span{
+  text-decoration: line-through;
+}
+
 .add-items {
   margin-top: 20px;
 }
@@ -69,6 +73,8 @@ h1 {
   padding: 10px;
   outline: 0;
   border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 2px;
+  background-color: rgb(234, 233, 232);
 }
 
 .add-items div {

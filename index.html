@@ -54,7 +54,7 @@
         return `
           <li>
           <input type="checkbox" data-index=${i} id="item${i}" ${foodItem.done ? 'checked' : ''} />
-            <label for="item${i}">${foodItem.text}</label>
+            <label for="item${i}"><span>${foodItem.text}</span></label>
           </li>
         `;
       }).join('');
