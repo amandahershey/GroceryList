@@ -1,1 +1,20 @@
-# GroceryList
+# GroceryList App
+
+> A simple grocery list app with vanilla JS that utilizes local storage
+
+- HTML
+- CSS
+- Javascript
+
+## Usage
+
+- Add items by typing into the item text box and submit (add item button or return key)
+- Check items off by clicking checkbox or check all button
+- Uncheck all items by clicking uncheck all button
+- Clear all items from list by clicking clear all button
+- Local storage saves data upon refresh
+
+## CodePen
+<a href="https://codepen.io/amandahershey/pen/oNvzzKy">View Here</a>
+
+Thank you for checking out my project 😄
