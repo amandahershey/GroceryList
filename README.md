@@ -17,4 +17,6 @@
 ## CodePen
 <a href="https://codepen.io/amandahershey/pen/oNvzzKy">View Here</a>
 
+<img src="https://drive.google.com/uc?id=1GqCjjtOG8d4tax2Oistz0KdOJjuwdLy_" />
+
 Thank you for checking out my project 😄
